@@ -1,0 +1,33 @@
+{
+
+    "tasks": [
+
+        {
+            "title": "Task 1",
+            "responsible": "Maria",
+            "description": "Lorem Ipsum 1",
+            "priority": "low"
+        },
+
+        {
+            "title": "Task 2",
+            "responsible": "Pedro",
+            "description": "Lorem Ipsum 2",
+            "priority": "high"
+        },
+
+        {
+            "title": "Task 3",
+            "responsible": "Juana",
+            "description": "Lorem Ipsum 3",
+            "priority": "medium"
+        },
+
+        {
+            "title": "Task 4",
+            "responsible": "Juan",
+            "description": "Lorem Ipsum 4",
+            "priority": "low"
+        }
+    ]
+}
